@@ -27,7 +27,7 @@ public class Ejercicio_RepositorioRemoto {
 				{
 					//Grupo :Kevin y Yara
 					case 1:
-						NoHayAlumno();
+						YaraKevin();
 						break;
 					//Grupo: Pablo y Jose A.
 					case 2:
@@ -115,5 +115,9 @@ public class Ejercicio_RepositorioRemoto {
 	public static void NoHayAlumno()
 	{
 		System.out.println("Esta opción no tiene asignada nungún alumno/a");
+	}
+	public static void YaraKevin()
+	{
+		System.out.println("Master educacion.ENDES: Yara y Kevin");
 	}
 }
