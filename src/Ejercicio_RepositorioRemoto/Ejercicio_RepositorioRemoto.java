@@ -25,21 +25,27 @@ public class Ejercicio_RepositorioRemoto {
 				// Vamos a la opción elegida por el usuario
 				switch (valorEntradaTeclado) 
 				{
+					//Grupo :Kevin y Yara
 					case 1:
 						NoHayAlumno();
 						break;
+					//Grupo: Pablo y Jose A.
 					case 2:
 						NoHayAlumno();
 						break;
+					//Grupo: Daniel y Raul
 					case 3:
 						NoHayAlumno();
 						break;
+					//Grupo: Dencel y Lucia
 					case 4:
 						NoHayAlumno();
 						break;
+					//Grupo: Iker, Alexander y Alex
 					case 5:
 						NoHayAlumno();
 						break;
+					//Grupo: Andrei y Paula
 					case 6:
 						NoHayAlumno();
 						break;
