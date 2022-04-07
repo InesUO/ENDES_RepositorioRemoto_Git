@@ -49,6 +49,7 @@ public class Ejercicio_RepositorioRemoto {
 					case 6:
 						NoHayAlumno();
 						break;
+					//Grupo tú y yo
 					case 7:
 						NoHayAlumno();
 						break;
