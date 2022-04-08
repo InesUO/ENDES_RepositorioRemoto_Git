@@ -54,7 +54,7 @@ public class Ejercicio_RepositorioRemoto {
 						NoHayAlumno();
 						break;
 					case 8:
-						NoHayAlumno();
+						GitEsLoMejor();
 						break;
 					case 9:
 						NoHayAlumno();
@@ -120,5 +120,10 @@ public class Ejercicio_RepositorioRemoto {
 	public static void YaraKevin()
 	{
 		System.out.println("Master educacion.ENDES: Yara y Kevin");
+	}
+	
+	public static void GitEsLoMejor()
+	{
+		System.out.println("holaaa");
 	}
 }
